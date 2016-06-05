@@ -1,0 +1,12 @@
+name: dry-monads.cr
+version: 0.0.1
+
+authors:
+  - Tanner Donovan <ttdonovan@gmail.com>
+
+license: MIT
+
+dependencies:
+  spec2:
+    github: waterlink/spec2.cr
+    version: ~> 0.8
