@@ -1,4 +1,8 @@
+[travis]: https://travis-ci.org/dry-cr/dry-monads
+
 # dry-monads
+
+[![Build Status](https://travis-ci.org/dry-cr/dry-monads.svg?branch=master)](travis)
 
 This is a port of the Ruby gem **dry-monads** by [dry-rb](http://dry-rb.org/).
 
